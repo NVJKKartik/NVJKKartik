@@ -59,7 +59,7 @@ ClickHouse · Temporal · RabbitMQ · OpenTelemetry · LangGraph · LlamaIndex �
 
 - [My agent had great traces and still never got better. Here is the loop I built.](https://dev.to/kartik-nvjk/my-agent-had-great-traces-and-still-never-got-better-here-is-the-loop-i-built-15o9)
 
-### 📌 Open source (all Apache-2.0 / open, under [future-agi](https://github.com/future-agi))
+### 📌 Open source (under [future-agi](https://github.com/future-agi))
 
 | Project | What it is | |
 | --- | --- | --- |
