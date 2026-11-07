@@ -11,6 +11,7 @@
 [![Future AGI](https://img.shields.io/badge/Future_AGI-Founding_Engineer-7c3aed?style=for-the-badge)](https://futureagi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-v-j-k-kartik-95283823b/)
 [![DEV](https://img.shields.io/badge/DEV-kartik--nvjk-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/kartik-nvjk)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-6_papers-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=tc23KVoAAAAJ)
 [![arXiv](https://img.shields.io/badge/arXiv-AgentCompass-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2509.14647)
 
 ![Profile views](https://komarev.com/ghpvc/?username=NVJKKartik&label=Profile%20views&color=7c3aed&style=flat-square)
@@ -41,25 +42,34 @@ I'm a founding engineer at [**Future AGI**](https://futureagi.com), where I work
 
 ClickHouse · Temporal · RabbitMQ · OpenTelemetry · LangGraph · LlamaIndex · Google ADK · OpenAI Agents SDK
 
-### 📄 Papers
+### 📄 Papers & patents
 
-| Year | Paper |
-| --- | --- |
-| 2025 | [**AgentCompass: Towards Reliable Evaluation of Agentic Workflows in Production**](https://arxiv.org/abs/2509.14647) |
-| 2024 | *Advancing Speaker Diarization With Whisper Speech Recognition for Different Learning Environments* (IEEE) |
+| Year | Title | Venue |
+| --- | --- | --- |
+| 2026 | **Synthetic data generation system and method** (with N. Pareek, R. Hada, S. Malyala) | US Patent 12,608,610 |
+| 2025 | [**AgentCompass: Towards Reliable Evaluation of Agentic Workflows in Production**](https://arxiv.org/abs/2509.14647) | arXiv:2509.14647 |
+| 2025 | Exploring Emotional Trajectories through Valence and Arousal in Open-Ended Math Learning Environments | APSCE |
+| 2025 | Energy-Efficient Depthwise Separable CNNs for Classification and Segmentation of Lung Cancer Nodules | IEEE INDISCON |
+| 2024 | Advancing Speaker Diarization With Whisper Speech Recognition for Different Learning Environments | IEEE T4E / TALE |
+| 2024 | Unlocking the Triggers: Automating the Identification of Triggers of Socially Shared Metacognitive Regulation in Collaborative Problem-Solving | T4E |
+
+[Full list on Google Scholar →](https://scholar.google.com/citations?user=tc23KVoAAAAJ)
 
 ### ✍️ Writing
 
 - [My agent had great traces and still never got better. Here is the loop I built.](https://dev.to/kartik-nvjk/my-agent-had-great-traces-and-still-never-got-better-here-is-the-loop-i-built-15o9)
 
-### 📌 Open source
+### 📌 Open source (all Apache-2.0 / open, under [future-agi](https://github.com/future-agi))
 
-| Project | What it is |
-| --- | --- |
-| [**future-agi/future-agi**](https://github.com/future-agi/future-agi) | The open-source platform: tracing, evals, gateway, simulation. I work on the gateway, tracing and evals. |
-| [**fma-\* repos**](https://github.com/NVJKKartik?tab=repositories&q=fma-) | Seven agents on seven frameworks (LangGraph, LlamaIndex, Haystack, ADK, OpenAI Agents SDK, LangChain, plain Python) with planted bugs, used to test automated agent fixing. |
-| [Quotation-Generator](https://github.com/NVJKKartik/Quotation-Generator) | Streamlit app that turns rough images into documents with an AI agent. |
-| [Photo-Metadata](https://github.com/NVJKKartik/Photo-Metadata) | Script that embeds metadata back into Google Takeout photos. |
+| Project | What it is | |
+| --- | --- | --- |
+| [**future-agi**](https://github.com/future-agi/future-agi) | The platform: tracing, evals, simulations, datasets, gateway, guardrails. Self-hostable. | ![stars](https://img.shields.io/github/stars/future-agi/future-agi?style=flat-square&color=7c3aed&label=) |
+| [**traceAI**](https://github.com/future-agi/traceAI) | OpenTelemetry-based tracing for AI apps and frameworks. | ![stars](https://img.shields.io/github/stars/future-agi/traceAI?style=flat-square&color=7c3aed&label=) |
+| [**agent-learning-kit**](https://github.com/future-agi/agent-learning-kit) | General-purpose evaluation and simulation environment for AI workflows. | ![stars](https://img.shields.io/github/stars/future-agi/agent-learning-kit?style=flat-square&color=7c3aed&label=) |
+| [**agent-opt**](https://github.com/future-agi/agent-opt) | Automated optimization of AI agent workflows. | ![stars](https://img.shields.io/github/stars/future-agi/agent-opt?style=flat-square&color=7c3aed&label=) |
+| [**simulate-sdk**](https://github.com/future-agi/simulate-sdk) | Voice AI simulation SDK for testing agents. | ![stars](https://img.shields.io/github/stars/future-agi/simulate-sdk?style=flat-square&color=7c3aed&label=) |
+| [**futureagi-sdk**](https://github.com/future-agi/futureagi-sdk) | Evals, prompt management and observability SDK for Python and TypeScript. | ![stars](https://img.shields.io/github/stars/future-agi/futureagi-sdk?style=flat-square&color=7c3aed&label=) |
+| [**cookbooks**](https://github.com/future-agi/cookbooks) | Example projects built on the Future AGI stack. | ![stars](https://img.shields.io/github/stars/future-agi/cookbooks?style=flat-square&color=7c3aed&label=) |
 
 ---
 
