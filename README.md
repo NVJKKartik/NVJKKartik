@@ -61,17 +61,6 @@ ClickHouse · Temporal · RabbitMQ · OpenTelemetry · LangGraph · LlamaIndex �
 | [Quotation-Generator](https://github.com/NVJKKartik/Quotation-Generator) | Streamlit app that turns rough images into documents with an AI agent. |
 | [Photo-Metadata](https://github.com/NVJKKartik/Photo-Metadata) | Script that embeds metadata back into Google Takeout photos. |
 
-### 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NVJKKartik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=7c3aed&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NVJKKartik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=a78bfa&langs_count=6" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NVJKKartik&theme=tokyonight&hide_border=true&background=0f172a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="Contribution streak" />
-
-</div>
-
 ---
 
 <div align="center">
