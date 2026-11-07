@@ -8,7 +8,19 @@
   <a href="https://futureagi.com">Future AGI</a>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stat-patent-dark.svg"><img src="assets/stat-patent-light.svg" alt="1 US patent: synthetic data generation" width="32%"></picture> <a href="https://scholar.google.com/citations?user=tc23KVoAAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stat-papers-dark.svg"><img src="assets/stat-papers-light.svg" alt="6 papers and patents on Google Scholar" width="32%"></picture></a> <a href="https://github.com/future-agi/traceAI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stat-sdk-dark.svg"><img src="assets/stat-sdk-light.svg" alt="4 SDK languages: Python, TypeScript, Java, C#" width="32%"></picture></a></p>
+<p align="center"><a href="https://github.com/future-agi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stat-stars-dark.svg"><img src="assets/stat-stars-light.svg" alt="2.9k stars across future-agi public repos" width="32%"></picture></a> <a href="https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ANVJKKartik+org%3Afuture-agi+is%3Apublic"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stat-prs-dark.svg"><img src="assets/stat-prs-light.svg" alt="298 merged pull requests to future-agi public repos" width="32%"></picture></a> <a href="https://scholar.google.com/citations?user=tc23KVoAAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stat-papers-dark.svg"><img src="assets/stat-papers-light.svg" alt="6 papers and patents on Google Scholar" width="32%"></picture></a></p>
+
+## Recently merged
+
+<p align="center"><a href="https://github.com/future-agi/future-agi/pull/3721"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ship-0-dark.svg"><img src="assets/ship-0-light.svg" alt="future-agi #3721: fix(simulate): close the Fix my agent follow-ups from the final UI test" width="100%"></picture></a></p>
+
+<p align="center"><a href="https://github.com/future-agi/future-agi/pull/3738"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ship-1-dark.svg"><img src="assets/ship-1-light.svg" alt="future-agi #3738: feat(simulate): resume an interrupted run without repeating finished calls" width="100%"></picture></a></p>
+
+<p align="center"><a href="https://github.com/future-agi/agent-learning-kit/pull/240"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ship-2-dark.svg"><img src="assets/ship-2-light.svg" alt="agent-learning-kit #240: fix(harness): keep the chat pump alive and record text call usage" width="100%"></picture></a></p>
+
+## Activity
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg"><img src="assets/heatmap-light.svg" alt="6,070 contributions in the last 12 months" width="100%"></picture></p>
 
 ## Open source
 
